@@ -29,6 +29,7 @@ public class LockerController {
     }
 // testing4
     public List<Slot> getAvailableSlots() {
+        //testing
         return lockerService.getAllAvailableSlots();
     }
 
